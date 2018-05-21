@@ -17,6 +17,7 @@ namespace _0503_Practice
             Console.WriteLine("The numbers you picked are " + a + " and " + b);
             int c = a + b;
             Console.WriteLine("The sum of these numbers is " + c);
+            Console.WriteLine("Additional code has been added.");
             Console.ReadKey();
         }
     }
